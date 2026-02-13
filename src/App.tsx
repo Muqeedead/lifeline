@@ -1178,7 +1178,7 @@ function LovePage() {
               <button
                 onClick={closeLetter}
                 type="button"
-                className="rounded-full px-5 py-2 text-sm font-extrabold text-white bg-accent hover:opacity-95 shadow-soft transition active:scale-[0.99]"
+                className="rounded-full px-5 py-2 text-sm font-extrabold text-black bg-accent hover:opacity-95 shadow-soft transition active:scale-[0.99]"
               >
                 Hold it close 🤍
               </button>
