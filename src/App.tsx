@@ -169,16 +169,6 @@ Aur main aapko har din, har haal mein choose karta hoon.
 
 Hamesha. 💞`;
 
-const REASONS = [
-  "You feel like home.",
-  "Your smile fixes days.",
-  "You make ordinary soft.",
-  "I trust you, fully.",
-  "You’re my calm.",
-  "You’re my favourite person.",
-  "Your voice is my comfort.",
-  "I choose you. Always.",
-];
 
 // ✅ Add your photos here (place files in /public/photos/)
 const PHOTOS: { src: string; alt: string }[] = [
